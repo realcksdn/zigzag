@@ -1,1 +1,1 @@
-# 2.zigzag
+#2학년 zigzag 게임
